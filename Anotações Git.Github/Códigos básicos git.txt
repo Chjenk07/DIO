@@ -1,0 +1,11 @@
+Git config
+
+Git config init.defaultBranch
+
+Git config -- global user.name ""
+
+Git config --global user.email 
+
+git config --global --list 
+
+
